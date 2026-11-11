@@ -13,7 +13,7 @@
 ## Stack
 - Astro + Tailwind CSS.
 - Página estática, leve e rápida. Sem bibliotecas pesadas sem necessidade.
-- Deploy na Vercel.
+- Deploy no GitHub Pages (workflow em .github/workflows/deploy.yml).
 
 ## Fluxo de trabalho
 1. Leia este arquivo e a pasta inspiracao/ antes de começar.

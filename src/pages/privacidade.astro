@@ -1,5 +1,6 @@
 ---
 import '../styles/global.css';
+const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 ---
 
 <html lang="pt-BR">
@@ -9,11 +10,11 @@ import '../styles/global.css';
     <title>Política de privacidade | RE/MAX Kadimah</title>
     <meta name="description" content="Como a RE/MAX Kadimah trata os dados de quem visita esta página." />
     <meta name="robots" content="noindex" />
-    <link rel="icon" type="image/png" href="/favicon.png" />
+    <link rel="icon" type="image/png" href={base + "favicon.png"} />
   </head>
   <body class="min-h-dvh bg-marinho font-sans text-branco antialiased">
     <main class="mx-auto w-full max-w-md px-6 py-10 leading-relaxed">
-      <a href="/" class="text-nevoa underline decoration-linha underline-offset-4 hover:decoration-branco">Voltar</a>
+      <a href={base} class="text-nevoa underline decoration-linha underline-offset-4 hover:decoration-branco">Voltar</a>
       <h1 class="mt-8 text-3xl font-extrabold tracking-tight" style="font-stretch: 112%">Política de privacidade</h1>
 
       <p class="mt-6 text-nevoa">
