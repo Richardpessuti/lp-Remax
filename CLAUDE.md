@@ -1,13 +1,13 @@
 # Instruções do projeto
 
 ## Projeto (preencher a cada landing nova)
-- Cliente:
-- Produto/serviço:
-- Público-alvo:
-- Objetivo da página (ex: captar leads, vender, agendar):
-- Ação principal (botão):
-- Paleta de cores:
-- Fontes:
+- Cliente: Imobiliária RE/MAX Kadimah (CRECI 42090-J), Perdizes, São Paulo
+- Produto/serviço: compra, venda e locação de imóveis
+- Público-alvo: seguidores do Instagram que querem comprar, vender ou alugar imóvel em SP
+- Objetivo da página (ex: captar leads, vender, agendar): link na bio; levar para o WhatsApp
+- Ação principal (botão): falar no WhatsApp (11) 98983-3309
+- Paleta de cores: marinho #001F4E, branco #FFFFFF, vermelho #E10600 e azul #004BFD (do balão, só detalhes), névoa #B9C6DC (texto secundário)
+- Fontes: Archivo Variable (uma família, largura expandida nos títulos)
 - Referências: ver pasta inspiracao/
 
 ## Stack
